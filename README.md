@@ -8,4 +8,10 @@
 
 [models](models) - Содержит веса модели
 
+
+
+Инструкция:
+
+1. Скачать [tweets.txt](https://code.s3.yandex.net/deep-learning/tweets.txt), положить в [data](data)
+
 Результат: [solution.ipynb](solution.ipynb)
